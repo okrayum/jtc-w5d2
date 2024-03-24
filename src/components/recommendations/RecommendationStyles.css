@@ -1,0 +1,59 @@
+.add-recommendation {
+  width: 100%;
+  background-color: grey;
+  display: flex;
+  flex-direction: column;
+}
+
+.add-recommendation h2 {
+  text-align: left;
+  padding: 1rem 0;
+}
+
+.add-recommendation h2,
+p {
+  padding: 0.25rem 0.5rem;
+}
+
+.add-recommendation p {
+  text-align: center;
+}
+
+.recommendation-list p {
+  padding: 0.25rem 0.5rem;
+}
+
+.center {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.form-div {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem 0;
+}
+
+.form-div input {
+  width: 15rem;
+  height: 2rem;
+  margin: 0 0.75rem;
+}
+
+.form-div button {
+  height: 2rem;
+  width: 4rem;
+}
+
+.recommendations-container p {
+  font-size: 1.25rem;
+}
+
+.recommendations {
+  width: 100%;
+  padding: 1rem;
+  text-align: center;
+  font-size: 1.25rem;
+}

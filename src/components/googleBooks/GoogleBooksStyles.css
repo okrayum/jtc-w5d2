@@ -1,0 +1,29 @@
+.google-books {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem 0;
+}
+
+.google-books ul {
+  padding: 0.5rem;
+}
+
+.google-books li {
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+@media screen and (min-width: 940px) {
+  .google-books ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .google-books li {
+    width: calc(30% - 1rem);
+  }
+}

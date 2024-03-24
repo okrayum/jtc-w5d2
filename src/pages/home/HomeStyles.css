@@ -1,0 +1,11 @@
+.home-div {
+  text-align: center;
+  padding: 3rem 0;
+}
+
+@media screen and (min-width: 940px) {
+  .home-div {
+    text-align: center;
+    margin-bottom: 2%;
+  }
+}

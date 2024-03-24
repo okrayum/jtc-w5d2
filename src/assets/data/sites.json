@@ -1,0 +1,47 @@
+[
+  {
+    "name": "W3Schools",
+    "url": "https://www.w3schools.com",
+    "image": "w3schools.png"
+  },
+  {
+    "name": "MDN Web Docs",
+    "url": "https://developer.mozilla.org/en-US/",
+    "image": "mdn.png"
+  },
+  {
+    "name": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org",
+    "image": "freecodecamp.png"
+  },
+  {
+    "name": "Stack Overflow",
+    "url": "https://stackoverflow.com",
+    "image": "stackoverflow.png"
+  },
+  {
+    "name": "HackerRank",
+    "url": "https://www.hackerrank.com",
+    "image": "hackerrank.png"
+  },
+  {
+    "name": "Codecademy",
+    "url": "https://www.codecademy.com",
+    "image": "codecademy.png"
+  },
+  {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/computing",
+    "image": "khanacademy.png"
+  },
+  {
+    "name": "Coursera",
+    "url": "https://www.coursera.org",
+    "image": "coursera.png"
+  },
+  {
+    "name": "LeetCode",
+    "url": "https://leetcode.com",
+    "image": "leetcode.png"
+  }
+]
