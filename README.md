@@ -8,7 +8,7 @@ This is a web application using React focused on showcasing some of the top book
 ## Setup
 
 1. Clone the repository.
-2. Navigate to the project directory `wk5d2-after-class`.
+2. Navigate to the project directory `jtc-wk5d2`.
 3. Install dependencies using `npm install`.
 4. Start the project with `npm start`.
 
